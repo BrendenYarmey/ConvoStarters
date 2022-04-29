@@ -13,9 +13,19 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:textSize="48sp"
-            android:gravity="center"
+            android:gravity="center_horizontal"
+            android:textStyle="bold"
+            android:textAlignment="center"
             android:typeface="serif"
             android:text="Tips" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Insert Tips Here"
+            android:textSize="24sp"
+            android:typeface="serif" />
     </RelativeLayout>
 
 </FrameLayout>

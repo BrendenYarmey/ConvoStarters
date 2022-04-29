@@ -18,6 +18,7 @@ class MainActivity : AppCompatActivity() {
         val homeFragment = HomeFragment()
         val randomFragment = RandomFragment()
 
+        supportActionBar?.setTitle("Chatter")
 
         makeCurrentFragment(homeFragment)
 

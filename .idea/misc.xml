@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/byarmey/AndroidStudioProjects/ConvoStarters/app/src/main/res/drawable/ic_communication.xml" value="0.2775" />
+        <entry key="..\:/Users/byarmey/AndroidStudioProjects/ConvoStarters/app/src/main/res/drawable/ic_home.xml" value="0.1" />
+        <entry key="..\:/Users/byarmey/AndroidStudioProjects/ConvoStarters/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2775" />
+        <entry key="..\:/Users/byarmey/AndroidStudioProjects/ConvoStarters/app/src/main/res/drawable/ic_random.xml" value="0.2775" />
         <entry key="..\:/Users/byarmey/AndroidStudioProjects/ConvoStarters/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/byarmey/AndroidStudioProjects/ConvoStarters/app/src/main/res/layout/fragment_communication.xml" value="0.2554347826086957" />
-        <entry key="..\:/Users/byarmey/AndroidStudioProjects/ConvoStarters/app/src/main/res/layout/fragment_home.xml" value="0.9276315789473685" />
+        <entry key="..\:/Users/byarmey/AndroidStudioProjects/ConvoStarters/app/src/main/res/layout/fragment_home.xml" value="0.2" />
         <entry key="..\:/Users/byarmey/AndroidStudioProjects/ConvoStarters/app/src/main/res/layout/fragment_random.xml" value="0.2554347826086957" />
         <entry key="..\:/Users/byarmey/AndroidStudioProjects/ConvoStarters/app/src/main/res/menu/menu.xml" value="0.21851851851851853" />
         <entry key="..\:/Users/byarmey/AndroidStudioProjects/ConvoStarters/app/src/main/res/menu/nav_menu.xml" value="0.21851851851851853" />
