@@ -5,6 +5,11 @@
     android:layout_height="match_parent"
     tools:context=".fragments.CommunicationFragment">
 
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true">
+
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent">
@@ -22,10 +27,73 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:gravity="center"
-            android:text="Insert Tips Here"
-            android:textSize="24sp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="60dp"
+            android:textStyle="bold"
+            android:text="1. Try asking a lot of questions about the interests of the people you’re talking to"
+            android:textSize="28sp"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="210dp"
+            android:layout_marginBottom="20dp"
+            android:text="-People like to enjoy sharing information about themselves, and how else will you get to 	know 	the people you’re talking to without asking about their interests. \n\n
+
+-It is also important to keep in mind if you have something in common with the person, they’re 	more likely to be willing to talk to you about your common interests. "
+            android:textSize="28sp"
+            android:typeface="serif" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="720dp"
+            android:layout_marginBottom="20dp"
+            android:textStyle="bold"
+            android:text="2. Try avoiding yes or no questions"
+            android:textSize="28sp"
+            android:typeface="serif" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="800dp"
+            android:layout_marginBottom="20dp"
+            android:text="-For a more interesting conversation you should try your best to primarily ask questions that cannot be answered with just one word."
+            android:textSize="28sp"
+            android:typeface="serif" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="1020dp"
+            android:layout_marginBottom="20dp"
+            android:textStyle="bold"
+            android:text="3. Have an open body language "
+            android:textSize="28sp"
+            android:typeface="serif" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginTop="1100dp"
+            android:layout_marginBottom="20dp"
+            android:text="-Having an open body language helps inform the person you’re talking to that you are open. \n\n
+
+-Having an open posture means facing the person, smiling, or nodding \n\n
+
+-Maintain good eye contact "
+            android:textSize="28sp"
             android:typeface="serif" />
     </RelativeLayout>
 
+    </ScrollView>
 </FrameLayout>
